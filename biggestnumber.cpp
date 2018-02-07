@@ -20,7 +20,7 @@ if(number1>number2)
 else {biggest=number2;}
 
   cout<<"Of those two numbers, the biggest is: "<< biggest <<endl;
-  cout<<endl<<"Thank you for playing.\n";
+  cout<<"Thank you for playing."<<endl;
 
   return 0;
  }
